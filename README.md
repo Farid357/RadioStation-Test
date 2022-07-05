@@ -1,12 +1,12 @@
 <p align="center">
-      <img src="Project Logo Url" width="800![radiostancija_r855_um](https://user-images.githubusercontent.com/104379303/177329540-75f59483-9a76-4aaa-b7a8-9c2df8231ea1.png)
-">
+   <img src = "https://user-images.githubusercontent.com/104379303/177336455-f9df66b0-a4b4-4f0e-800b-d8fb8e544234.png">
 </p>
 
 <p align="center">
-   <img src="" alt= ![2022-07-05_17-34-43](https://user-images.githubusercontent.com/104379303/177329301-6d281dab-0596-40d7-9e92-c4d843c1d1b2.png)
-">
+   <img src = "https://img.shields.io/badge/Движок-Unity%202021.2.5-blue" alt = "Unity version">
+   <img src = "https://img.shields.io/badge/Язык-C%23-ff69b4">
 </p>
+
 
 ## О проекте
    Этот проект - курсовая работа для авиационного вуза, демонстрирующий работу радиостанции P-855 УМ  "Прибой".
